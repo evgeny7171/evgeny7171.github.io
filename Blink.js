@@ -1,6 +1,6 @@
 function blink()
 {
-	var div = document.getElementById('video');
+	var div = document.getElementById("video");
 	if (div.style.visibility=="hidden")
 	{
 		div.style.visibility="visible";
