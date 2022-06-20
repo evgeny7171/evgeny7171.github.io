@@ -1,5 +1,3 @@
-<script>
-
 function blink()
 {
 	var div = document.getElementById('video');
@@ -16,5 +14,3 @@ function blink()
 // blink every 500 ms
 
 window.setInterval(blink, 500);
-
-</script>
