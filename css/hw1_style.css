@@ -62,3 +62,7 @@ a{
 	font-style: italic;
 	color: blue;
 }
+
+.div_video{
+	visibility: hidden;
+}
